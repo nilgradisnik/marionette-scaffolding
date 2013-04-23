@@ -1,0 +1,5 @@
+define([
+  'marionette',
+], function (Marionette) {
+
+});

@@ -1,0 +1,19 @@
+{
+  "name": "marionette-scaffolding",
+  "version": "0.1.0",
+  "author": "Nil Gradisnik <nil.gradisnik@gmail.com>",
+  "private": false,
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nilgradisnik/marionette-scaffolding"
+  },
+  "dependencies": {
+    "express": "3.1.0",
+    "hbs": "~2.0.2",
+    "stylus": "~0.32.1",
+    "nib": "~0.9.1"
+  }
+}
