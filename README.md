@@ -1,7 +1,9 @@
 # marionette-scaffolding
   
-  marionette-scaffolding a fairly simple web application skeleton(boilerplate or whatever you want to call it) using Backbone.js in combination with Marionette.js and few other helpful libraries. I also put the minimal Node.js server for testing the web app. It's meant to be a helpful starting point for new web projects.
+  marionette-scaffolding a fairly simple web application skeleton(boilerplate or whatever you want to call it) using [Backbone](http://backbonejs.org/) in combination with [Marionette](http://marionettejs.com/) and few other helpful libraries. I also put the minimal [Node](http://nodejs.org/) server for testing the web app. It's meant to be a helpful starting point for new web projects.
 
+  I started off by creating [backbone-scaffolding](https://github.com/nilgradisnik/backbone-scaffolding) and eventually upgraded the project using Marionette
+  
 ## Web app
 
   The `public` folder containes all the files that will get you started
